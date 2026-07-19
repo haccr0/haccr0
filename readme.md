@@ -1,12 +1,12 @@
 <!-- 🚀 Profile Banner -->
 <p align="center">
-  <img src="banner.gif" width="100%" />
+  <img src="banner.gif" width="70%" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Learn.()+Code.()+Eat.()+Repeat.()" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&color=9B59FF&lines=Learn.()+Code.()+Eat.()+Repeat.()" />
 </p>
 
 ---
